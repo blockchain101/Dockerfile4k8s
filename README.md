@@ -1,0 +1,1 @@
+this is a dockerfile to build using docker hub's automated build 
